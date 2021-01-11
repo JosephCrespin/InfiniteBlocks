@@ -7,12 +7,10 @@ function gamerMove(block) {
   const remainingMoves = sequence.length - humanSequence.length;
 
 //refactorizar pls]
-
   if (humanSequence[index] !== sequence[index]) {
     resetGame('U faild little human 🤡');
     return;
   }
-
   if (humanSequence.length === sequence.length) {
     if (humanSequence.length === 20) {
       resetGame('WOW, You win a potato 🥔');
