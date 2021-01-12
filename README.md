@@ -6,6 +6,10 @@ this project is based on simon's game where you have to follow patterns and reme
 
 You will only have to download the project or clone it to be able to edit the code in case you want to modify it, take it, it is totally free
 
+```
+$ git clone https://github.com/JosephCresin/InfiniteBlocks.git
+```
+
 ### Requirements 📋
 
 you need a code editor either VScode, Sublime Code, etc.
