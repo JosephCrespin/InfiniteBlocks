@@ -12,7 +12,7 @@ you need a code editor either VScode, Sublime Code, etc.
 
 ## Deployment 📦
 
-you can see it there -> josephcrespin.github.io/infiniteblocks/
+you can see it there ->  https://josephcrespin.github.io/infiniteblocks/
 
 ## Demo 
 
