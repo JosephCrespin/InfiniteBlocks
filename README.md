@@ -22,7 +22,7 @@ you can see it there -> josephcrespin.github.io/infiniteblocks/
 
 * [HTML 5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 * [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) vanilla 
 
 
 ---
