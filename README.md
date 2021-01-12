@@ -1,6 +1,6 @@
 # InfiniteBlocks
 
-this project is based on simon's game where you have to follow patterns and remember them to win🤠
+This project is based on simon's game where you have to follow patterns and remember them to win🤠
 
 ## Starting🚀
 
